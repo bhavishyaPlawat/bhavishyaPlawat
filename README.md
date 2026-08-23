@@ -4,6 +4,12 @@
   
  ### _"My name means 'Future', and I'm building it."_
   <h1>Bhavishya Plawat</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="bhavishyaPlawat's GitHub profile" src="dark_mode.svg" />
+</picture>
   
   <p>
     <a href="www.linkedin.com/in/bhavishya-plawat-165184303">
